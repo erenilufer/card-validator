@@ -1,4 +1,4 @@
-import * as creditCardType from "credit-card-type";
+import * as creditCardType from "@towerguards/credit-card-type";
 
 import { cardholderName } from "./cardholder-name";
 import { cardNumber as number } from "./card-number";

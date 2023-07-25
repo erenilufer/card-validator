@@ -1,5 +1,5 @@
 import luhn10 = require("./luhn-10");
-import getCardTypes = require("credit-card-type");
+import getCardTypes = require("@towerguards/credit-card-type");
 import type { Verification } from "./types";
 
 // TODO this should probably come from credit-card-type
